@@ -1,5 +1,5 @@
 ### About Me
-I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in Italy, I enjoy contributing to open-source projects and collaborating with the community. Currently, I'm working mainly on FastAPI Guard, various GitHub Actions and other automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
+I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in California, I enjoy contributing to open-source projects and collaborating with the community. Currently, I'm working mainly on FastAPI Guard, various GitHub Actions and other automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
 
 
 <p align="center">
