@@ -1,7 +1,7 @@
 ### About Me
 I'm a passionate developer with expertise in Python, Swift, and JavaScript. I love creating tools and automations that make life easier for developers. Based in California, I enjoy contributing to open-source projects and collaborating with the community.
 
-Currently, I'm working mainly on [FastAPI Guard](https://github.com/rennf93/fastapi-guard), helping build with [Cute-Panel](github.com/KatriaDopex/Cute-Panel) and other AI agent automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
+Currently, I'm working mainly on [FastAPI Guard](https://github.com/rennf93/fastapi-guard), helping build with [Cute-Panel](https://github.com/KatriaDopex/Cute-Panel) and other AI agent automation tools. During my leisure time, you'll find me exploring new technologies and contributing to open-source projects.
 
 
 <p align="center">
